@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[selenium]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2019-07-27T07:52:23Z" finished-at="2019-07-27T07:52:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2019-07-27T07:52:23Z" finished-at="2019-07-27T07:52:24Z">
+      <class name="qspA.DemoA">
+        <test-method status="PASS" signature="testA()[pri:0, instance:qspA.DemoA@51565ec2]" name="testA" duration-ms="15" started-at="2019-07-27T07:52:23Z" finished-at="2019-07-27T07:52:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testA -->
+      </class> <!-- qspA.DemoA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
